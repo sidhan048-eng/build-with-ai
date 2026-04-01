@@ -30,9 +30,7 @@ descibing the problem proffessionally
 ---
 
 ## Proof of Google AI Usage
-Attach screenshots in a `/proof` folder:
-
-![AI Proof]/(Users/sidhan/Desktop/antigravity screenshot)
+[AI Proof]/(screenshot.png)
 ---
 
 ## Screenshots 
