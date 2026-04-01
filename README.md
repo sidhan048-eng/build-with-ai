@@ -31,7 +31,7 @@ descibing the problem proffessionally
 
 ## Proof of Google AI Usage
 Add proof of ai:
-[AI Proof]/(screenshot.png)
+[AI Proof]/(antigravity screenshot.png)
 ---
 
 ## Screenshots 
