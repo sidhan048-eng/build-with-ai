@@ -30,14 +30,17 @@ descibing the problem proffessionally
 ---
 
 ## Proof of Google AI Usage
+Add proof of ai:
 [AI Proof]/(screenshot.png)
 ---
 
 ## Screenshots 
 Add project screenshots:
 
-![Screenshot1](./assets/screenshot1.png)  
-![Screenshot2](./assets/screenshot2.png)
+![Screenshot1](front.png)  
+![Screenshot2](Details.png)
+![Screenshot3](options.png)
+![Screenshot4](confirm.png)
 
 ---
 
@@ -51,10 +54,10 @@ Upload your demo video to Google Drive and paste the shareable link here(max 3 m
 
 ```bash
 # Clone the repository
-git clone <your-repo-link>
+git clone <(https://github.com/sidhan048-eng/GreenMiless.git)>
 
 # Go to project folder
-cd project-name
+cd GreenMiless
 
 # Install dependencies
 npm install
